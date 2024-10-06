@@ -1,0 +1,21 @@
+.left-container .left p{
+    margin-left: 20px;
+    color: rgb(100, 99, 99);
+    font-family: "Roboto";
+    font-size: 14px;
+  }
+.left-container .left{
+    display: flex;
+    width: 100%;
+    cursor: pointer;
+  }
+.left-container .left{
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+  }
+  .left-container .left:hover{
+    background: rgb(231, 231, 231);
+    padding-left: 30px;
+    border-radius: 10px;
+  }
